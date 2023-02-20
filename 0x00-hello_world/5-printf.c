@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints entry
+ * main - entry point
+ *
+ *description:Prints string to stdout
  *
  * return: always 0 (Success)
  */
